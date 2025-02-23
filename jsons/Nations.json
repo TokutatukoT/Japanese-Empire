@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Japan",
+		"name": "The Empire of Japan",
 		"leaderName": "The Emperor of Japan",
 		"adjective": ["Japanese"],
 		"startBias": ["Coast", "Mount Fuji", "Avoid [Desert]", "Avoid [Snow]", "Avoid [Tundra]"],

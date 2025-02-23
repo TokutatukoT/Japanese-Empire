@@ -1,17 +1,35 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Samurai",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "The Empire of Japan",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can instantly construct a [Fishing Boats] improvement"]
+		"promotions": ["Shock I", "Shock II", "Shock III", "Great Generals II"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Zero",
+		"unitType": "Fighter",
+		"replaces": "Fighter",
+		"uniqueTo": "The Empire of Japan",
+		"movement": 1,
+		"strength": 45,
+		"rangedStrength": 45,
+		"range": 10,
+		"interceptRange": 10,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"upgradesTo": "Jet Fighter",
+		"uniques": ["[100]% chance to intercept air attacks", "[+167]% Strength <vs [Fighter] units>", "[+200]% Strength <vs [Bomber] units>", "[+200]% Strength <vs [Helicopter] units>"],
+		"promotions": ["Dogfighting I", "Dogfighting II", "Dogfighting III", "[Zero] ability"],
+		"attackSound": "machinegun"
 	}
 ]

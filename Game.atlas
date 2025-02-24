@@ -2,5 +2,6 @@ Game.png
 size:512,512
 filter:MipMapLinearLinear,MipMapLinearLinear
 repeat:none
-Japan
-bounds:4,4,256,256
+NationIcons/Japan
+  rotate: false
+  bounds:4,4,256,256

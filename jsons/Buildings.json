@@ -7,8 +7,11 @@
 		"science": 10,
 		"gold": 10,
 		"culture": 10,
+		"happiness": 5,
+		"faith": 5,
 		"cityStrength": 5,
-		"cost": 1,
+		"cityHealth": 10,
+		"cost": 0,
 		"uniques": ["Indicates the capital city"]
 	}
 ]

@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Imperial Palace",
+		"uniqueTo": "The Empire of Japan",
 		"replaces": "Palace",
 		"isNationalWonder": true,
 		"production": 10,

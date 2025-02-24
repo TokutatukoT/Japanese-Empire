@@ -1,7 +1,12 @@
 Game.png
 size:512,512
-filter:MipMapLinearLinear,MipMapLinearLinear
+format: RGBA8888
+filter:MipMapLinearLinear, MipMapLinearLinear
 repeat:none
 NationIcons/Japan
   rotate: false
-  bounds:4,4,256,256
+  xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

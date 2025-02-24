@@ -17,8 +17,8 @@
 		"neutralHello": "Hello.",
 		"hateHello": "Oh, it's you...",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
-		"outerColor": [	186, 22, 1],
-		"innerColor": [	255, 215, 1],
+		"outerColor": [174, 35, 44],
+		"innerColor": [213, 170, 57],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Industrious Imperial Citizens",
 		"uniques": [

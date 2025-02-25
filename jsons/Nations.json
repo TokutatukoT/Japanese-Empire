@@ -23,8 +23,8 @@
 		"uniqueName": "Industrious Imperial Citizens",
 		"uniques": [
 			"No damage penalty for wounded units <for [non-[Air]] units>",
-			"[+1 Gold, +3 Culture] from [Water resource] tiles [in all cities]",
-			"[+2 Culture] from [Water] tiles [in all cities]",
+			"[+1 Gold, +3 Culture, +1 Happiness] from [Water resource] tiles [in all cities]",
+			"[+1 Culture] from [Water] tiles [in all cities]",
 			"[+50]% Production when constructing [All] buildings [in all cities]",
 			"[+50]% Production when constructing [All] units [in all cities]",
 			"[+25]% Production when constructing [All] wonders [in all cities]",
@@ -33,7 +33,8 @@
 			"Enables embarkation for land units <starting from the [Ancient era]>",
 			"[1] Movement point cost to embark", "[1] Movement point cost to disembark",
 			"Enemy [Embarked] units must spend [3] extra movement points when inside your territory",
-			"Enemy [Water] units must spend [3] extra movement points when inside your territory"
+			"Enemy [Water] units must spend [3] extra movement points when inside your territory",
+			"[-50]% Strength for enemy [Embarked] units in adjacent [Coastal] tiles"
 		],
 		"cities": ["Tokyo","Kyoto","Osaka","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",

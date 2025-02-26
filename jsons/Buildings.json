@@ -13,6 +13,56 @@
 		"cityStrength": 5,
 		"cityHealth": 10,
 		"cost": 0,
-		"uniques": ["Indicates the capital city"]
+		"uniques": [
+			"Indicates the capital city",
+			"[+15]% Strength <for [All] units> <on water maps>",
+			"[+15]% Strength <for [All] units> <when defending>"
+		]
+	},
+	{
+		"name": "Ise Shrine",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"greatPersonPoints": {"Great Artist": 1, "Great Engineer": 1},
+		"gold": 1,
+		"culture": 10,
+		"happiness": 5,
+		"faith": 5,
+		"cost": 0,
+		"uniques": [
+			"Only available <if [Shrine] is constructed in all [non-[Puppeted]] cities>",
+			"Can be purchased with [Culture] [in all cities]",
+			"Free [Great Prophet] appears",
+			"Free Social Policy",
+			"[-10]% maintenance costs",
+			"[+1 Happiness] per [4] population [in all cities]",
+			"Free Social Policy <after founding a religion>",
+			"Free Social Policy <after enhancing a religion>",
+			"[+20]% Great Person generation [in this city] <after founding a religion>",
+			"[+20]% Great Person generation [in this city] <after enhancing a religion>",
+			"All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion",
+			"Gain [50] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
+			"Gain [50] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"
+		]
+	},
+	{
+		"name": "Meiji Shrine",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"percentStatBonus": {"culture": 10, "gold": 10},
+		"greatPersonPoints": {"Great Artist": 1, "Great Engineer": 1},
+		"specialistSlots": {"Artist": 1, "Engineer": 1},
+		"culture": 5,
+		"happiness": 5,
+		"cost": 0,
+		"uniques": [
+			"Hidden until [3] social policy branches have been completed",
+			"Can be purchased with [Culture] [in all cities]",
+			"Free Social Policy",
+			"[-33]% Culture cost of adopting new Policies",
+			"[+100]% Golden Age length",
+			"Great General provides double combat bonus",
+			"[+1 Happiness] per [3] population [in all cities]",
+		]
 	}
 ]

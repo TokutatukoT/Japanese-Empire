@@ -45,6 +45,26 @@
 		]
 	},
 	{
+		"name": "Yahata Steel Works",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"percentStatBonus": {"production": 10, "gold": 10},
+		"greatPersonPoints": {"Great Engineer": 5},
+		"specialistSlots": {"Engineer": 3},
+		"production": 10,
+		"culture": 1,
+		"cost": 0,
+		"requiredBuilding": "Ironworks",
+		"uniques": [
+			"Can be purchased with [Culture] [in all cities]",
+			"Provides [10] [Iron]",
+			"Free [Great Engineer] appears",
+			"[+1 Production] from every specialist [in all cities]",
+			"[-50]% Gold cost of upgrading <for [Military] units>",
+			"[+50]% Production when constructing [Spaceship part] units [in this city]"
+		]
+	},
+	{
 		"name": "Meiji Shrine",
 		"uniqueTo": "Japan",
 		"isNationalWonder": true,
@@ -60,8 +80,20 @@
 			"Free Social Policy",
 			"[-33]% Culture cost of adopting new Policies",
 			"[+100]% Golden Age length",
+			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Great General provides double combat bonus",
 			"[+1 Happiness] per [3] population [in all cities]",
 		]
+	},
+	{
+		"name": "Anime Studio",
+		"uniqueTo": "Japan",
+		"percentStatBonus": {"culture": 20, "gold": 20},
+		"greatPersonPoints": {"Great Artist": 3, "Great Merchant": 1},
+		"specialistSlots": {"Artist": 3, "Merchant": 2},
+		"culture": 10,
+		"happiness": 10
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
 	}
 ]

@@ -48,7 +48,7 @@
 		"name": "Yahata Steel Works",
 		"uniqueTo": "Japan",
 		"isNationalWonder": true,
-		"percentStatBonus": {"production": 10, "gold": 10},
+		"percentStatBonus": {"production": 25, "gold": 10},
 		"greatPersonPoints": {"Great Engineer": 5},
 		"specialistSlots": {"Engineer": 3},
 		"production": 10,
@@ -62,6 +62,25 @@
 			"[+1 Production] from every specialist [in all cities]",
 			"[-50]% Gold cost of upgrading <for [Military] units>",
 			"[+50]% Production when constructing [Spaceship part] units [in this city]"
+		]
+	},
+	{
+		"name": "Imperial University",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50, "culture": 5},
+		"greatPersonPoints": {"Great Scientist": 5},
+		"specialistSlots": {"Scientist": 3},
+		"science": 10,
+		"culture": 1,
+		"cost": 0,
+		"requiredBuilding": "Oxford University",
+		"uniques": [
+			"Can be purchased with [Culture] [in all cities]",
+			"Free [Great Scientist] appears",
+			"Free Technology",
+			"[+1 Science] from every specialist [in all cities]",
+			"Science gained from research agreements [+100]%"
 		]
 	},
 	{
@@ -83,6 +102,31 @@
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Great General provides double combat bonus",
 			"[+1 Happiness] per [3] population [in all cities]",
+		]
+	},
+	{
+		"name": "Kure Naval Arsenal",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"cityStrength": 50,
+		"cityHealth": 75,
+		"cost": 0,
+		"uniques": [
+			"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
+			"Must be next to [Coast]",
+			"Can be purchased with [Culture] [in all cities]",
+			"Provides [5] [Iron]",
+			"Provides [5] [Coal]",
+			"Provides [5] [Oil]",
+			"Free [Great General] appears",
+			"[+1 Production] from every specialist [in all cities]",
+			"[-50]% Gold cost of upgrading <for [Military] units>",
+			"New [{Military} {Water}] units start with [60] XP [in this city]",
+			"All newly-trained [relevant] units [in this city] receive the [Boarding Party I] promotion",
+			"All newly-trained [relevant] units [in this city] receive the [Targeting I] promotion",
+			"All newly-trained [relevant] units [in this city] receive the [Wolfpack I] promotion",
+			"All newly-trained [Water] units [in this city] receive the [Logistics] promotion",
+			"[+50]% Production when constructing [{Military} {Water}] units [in this city]"
 		]
 	},
 	{

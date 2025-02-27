@@ -2,8 +2,15 @@
   {
     "name": "Yamato-damashii",
 		"uniques": [
-      "[+25]% Strength",
-      "[3] additional attacks per turn"
+      			"[+25]% Strength",
+			"[+1] Movement",
+			"[+1] Sight",
+		      	"[3] additional attacks per turn",
+			"Can move after attacking",
+			"[+20]% XP gained from combat",
+			"[+5] HP when healing",
+			"[+25]% to Flank Attack bonuses",
+			"[+10]% Strength when stacked with [Great General]"
     ]
   }
 ]

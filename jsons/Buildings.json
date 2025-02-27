@@ -163,7 +163,7 @@
 		"isNationalWonder": true,
 		"cost": 0,
 		"uniques": [
-			"Only available <if [Military Academy] is constructed in all [non-[Puppeted]] cities>",
+			"Only available <after adopting [Autocracy]> <if [Military Academy] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great General] appears",
 			"Free [Great General] appears",

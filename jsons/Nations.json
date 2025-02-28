@@ -34,7 +34,7 @@
 			"[1] Movement point cost to embark", "[1] Movement point cost to disembark",
 			"Enemy [Embarked] units must spend [3] extra movement points when inside your territory",
 			"Enemy [Water] units must spend [3] extra movement points when inside your territory",
-			"[-50]% Strength for enemy [Embarked] units in adjacent [Land] tiles"
+			"[-50]% Strength for enemy [Embarked] units in adjacent [City center] tiles"
 		],
 		"cities": ["Tokyo","Kyoto","Osaka","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",

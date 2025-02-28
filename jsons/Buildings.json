@@ -137,6 +137,7 @@
 		"cost": 0,
 		"uniques": [
 			"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
+			"Can be purchased with [Culture] [in all cities]",
 			"Provides [2] [Iron]",
 			"Provides [2] [Coal]",
 			"Provides [2] [Oil]",

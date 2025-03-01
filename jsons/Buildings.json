@@ -27,7 +27,7 @@
 		"gold": 1,
 		"culture": 10,
 		"happiness": 5,
-		"faith": 5,
+		"faith": 1,
 		"cost": 0,
 		"uniques": [
 			"Only available <if [Shrine] is constructed in all [non-[Puppeted]] cities>",
@@ -35,6 +35,7 @@
 			"Free [Great Prophet] appears",
 			"[-10]% maintenance costs",
 			"[+1 Happiness] per [4] population [in all cities]",
+			"[+3 Faith] from [Holy site] tiles [in all cities]",
 			"Free Social Policy <after founding a religion>",
 			"[+20]% Great Person generation [in this city] <after founding a religion>",
 			"All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion",
@@ -50,33 +51,35 @@
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"culture": 5,
-		"happiness": 5,
-		"faith": 5,
+		"faith": 1,
 		"cost": 0,
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Temple] [in this city]",
 			"Free [Great Prophet] appears",
 			"Free Social Policy <after enhancing a religion>",
 			"[+10]% Great Person generation [in this city] <after enhancing a religion>",
 			"[-10]% maintenance costs",
-			"Can build [all] improvements at a [+25]% rate"
+			"Can build [all] improvements at a [+25]% rate",
+			"[+3 Faith] from [Holy site] tiles [in all cities]"
 		]
 	},
 	{
 		"name": "Dazaifu Renman-gu",
 		"uniqueTo": "Japan",
 		"isNationalWonder": true,
+		"percentStatBonus": {"science": 20},
 		"greatPersonPoints": {"Great Scientist": 1},
 		"culture": 5,
-		"happiness": 5,
-		"faith": 5,
+		"science": 5,
 		"cost": 0,
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great Scientist] appears",
 			"Free Technology",
 			"[+10]% Great Person generation [in this city]",
-			"[-10]% maintenance costs"
+			"[-10]% maintenance costs",
+			"[+1 Science] from [Academy] tiles [in all cities]"
 		]
 	},
 	{
@@ -91,9 +94,12 @@
 		"cost": 0,
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
+			"Empire enters golden age",
 			"Free Social Policy",
 			"Free [Great Artist] appears",
 			"[+10]% Great Person generation [in this city]",
+			"[-33]% Culture cost of adopting new Policies",
+			"[+2 Culture] from [Landmark] tiles [in all cities]"
 		]
 	},
 	*/
@@ -115,7 +121,8 @@
 			"Must be next to [Coast]",
 			"[+2 Food, +1 Culture] from [Coast] tiles [in all cities]",
 			"[+2 Food, +1 Gold] from [Ocean] tiles [in all cities]",
-			"Retain [+50]% of the happiness from a luxury after the last copy has been traded away"
+			"Retain [+50]% of the happiness from a luxury after the last copy has been traded away",
+			"[+25]% Gold from Great Merchant trade missions"
 		]
 	},
 	{
@@ -181,7 +188,8 @@
 			"[-25]% unhappiness from the number of cities",
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"[+1 Happiness] per [3] population [in all cities]",
-			"[+50]% of excess happiness converted to [Culture]"
+			"[+50]% of excess happiness converted to [Culture]",
+			"[+3 Culture] from [Landmark] tiles [in all cities]"
 		]
 	},
 	{
@@ -272,7 +280,8 @@
 			"[+25]% [Gold] [in all cities] <during a Golden Age>",
 			"[+50]% of excess happiness converted to [Gold]",
 			"[-50]% Unhappiness from [Specialists] [in all cities]",
-			"[1] Happiness from each type of luxury resource"
+			"[1] Happiness from each type of luxury resource",
+			"[+25]% Gold from Great Merchant trade missions"
 		]
 	},
 	{

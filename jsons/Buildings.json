@@ -44,7 +44,6 @@
 			"Gain [50] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"
 		]
 	},
-	/*
 	{
 		"name": "Horyu-ji",
 		"uniqueTo": "Japan",
@@ -102,7 +101,6 @@
 			"[+2 Culture] from [Landmark] tiles [in all cities]"
 		]
 	},
-	*/
 	{
 		"name": "Tsukiji Market",
 		"uniqueTo": "Japan",

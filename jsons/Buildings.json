@@ -36,15 +36,46 @@
 			"[-10]% maintenance costs",
 			"[+1 Happiness] per [4] population [in all cities]",
 			"Free Social Policy <after founding a religion>",
-			"Free Social Policy <after enhancing a religion>",
 			"[+20]% Great Person generation [in this city] <after founding a religion>",
-			"[+20]% Great Person generation [in this city] <after enhancing a religion>",
 			"All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion",
 			"Religion naturally spreads to cities [3] tiles away",
 			"Gain [50] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
 			"Gain [50] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"
 		]
 	},
+	/*
+	{
+		"name": "Horyu-ji",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"greatPersonPoints": {"Great Artist": 1,},
+		"culture": 5,
+		"happiness": 5,
+		"faith": 5,
+		"cost": 0,
+		"uniques": [
+			"Can be purchased with [Culture] [in all cities]",
+			"Free [Great Prophet] appears",
+			"Free Social Policy <after enhancing a religion>",
+			"[+20]% Great Person generation [in this city] <after enhancing a religion>",
+			"[-10]% maintenance costs"
+		]
+	},
+	{
+		"name": "Tosho-gu",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"greatPersonPoints": {"Great Artist": 1,},
+		"culture": 5,
+		"happiness": 5,
+		"faith": 5,
+		"cost": 0,
+		"uniques": [
+			"Can be purchased with [Culture] [in all cities]",
+			"Free [Great Prophet] appears"
+		]
+	},
+	*/
 	{
 		"name": "Tsukiji Market",
 		"uniqueTo": "Japan",

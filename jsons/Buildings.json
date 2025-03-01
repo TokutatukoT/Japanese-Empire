@@ -57,12 +57,30 @@
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great Prophet] appears",
 			"Free Social Policy <after enhancing a religion>",
-			"[+20]% Great Person generation [in this city] <after enhancing a religion>",
+			"[+10]% Great Person generation [in this city] <after enhancing a religion>",
+			"[-10]% maintenance costs",
+			"Can build [all] improvements at a [+25]% rate"
+		]
+	},
+	{
+		"name": "Dazaifu Renman-gu",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"greatPersonPoints": {"Great Scientist": 1,},
+		"culture": 5,
+		"happiness": 5,
+		"faith": 5,
+		"cost": 0,
+		"uniques": [
+			"Can be purchased with [Culture] [in all cities]",
+			"Free [Great Scientist] appears",
+			"Free Technology",
+			"[+10]% Great Person generation [in this city]",
 			"[-10]% maintenance costs"
 		]
 	},
 	{
-		"name": "Tosho-gu",
+		"name": "Nikko Tosho-gu",
 		"uniqueTo": "Japan",
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Artist": 1,},
@@ -72,7 +90,8 @@
 		"cost": 0,
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
-			"Free [Great Prophet] appears"
+			"Free [Great Artist] appears",
+			"[+10]% Great Person generation [in this city]",
 		]
 	},
 	*/

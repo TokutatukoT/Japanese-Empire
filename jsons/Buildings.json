@@ -28,7 +28,7 @@
 		"gold": 1,
 		"culture": 10,
 		"happiness": 5,
-		"faith": 1,
+		"faith": 5,
 		"cost": 0,
 		"uniques": [
 			"Only available <if [Shrine] is constructed in all [non-[Puppeted]] cities>",
@@ -51,9 +51,10 @@
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"culture": 5,
-		"faith": 1,
+		"faith": 5,
 		"cost": 0,
 		"uniques": [
+			"Hidden until [1] social policy branches have been completed",
 			"Can be purchased with [Culture] [in all cities]",
 			"Gain a free [Temple] [in this city]",
 			"Free [Great Prophet] appears",
@@ -74,6 +75,7 @@
 		"science": 5,
 		"cost": 0,
 		"uniques": [
+			"Hidden until [1] social policy branches have been completed",
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great Scientist] appears",
 			"Free Technology",
@@ -93,6 +95,7 @@
 		"faith": 5,
 		"cost": 0,
 		"uniques": [
+			"Hidden until [2] social policy branches have been completed",
 			"Can be purchased with [Culture] [in all cities]",
 			"Empire enters golden age",
 			"Free Social Policy",

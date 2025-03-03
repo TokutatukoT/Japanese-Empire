@@ -3,7 +3,7 @@ game.png
 size: 512, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
-repeat:none
+repeat: none
 NationIcons/Japan
   rotate: false
   xy: 4, 4

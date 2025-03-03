@@ -1,4 +1,4 @@
-# Unciv-mod-example
+# Japanese Empire
 
 An overpowered Japan mainly for cultural victory.
 Have fun!

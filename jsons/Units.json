@@ -31,5 +31,21 @@
 		"uniques": ["[100]% chance to intercept air attacks", "[+167]% Strength <vs [Fighter] units>", "[+200]% Strength <vs [Bomber] units>", "[+200]% Strength <vs [Helicopter] units>"],
 		"promotions": ["Dogfighting I", "Dogfighting II", "Dogfighting III", "[Zero] ability"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Ninja",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Japan",
+		"movement": 4,
+		"sight": 4,
+		"range": 3,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	}
 ]

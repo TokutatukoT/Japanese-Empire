@@ -41,10 +41,10 @@
 		"sight": 4,
 		"range": 3,
 		"strength": 5,
-		"rangedStrength": 7,
+		"rangedStrength": 12,
 		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["Invisible to non-adjacent units", "Can move after attacking"],
+		"obsoleteTech": "Radio",
+		"uniques": ["Invisible to non-adjacent units", "May enter foreign tiles without open borders", "Can move after attacking", "[1] additional attacks per turn"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	}

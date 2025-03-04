@@ -1,8 +1,5 @@
-All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
+The following are from [icooon-mono](https://icooon-mono.com/)
 
-* [alien] (https://thenounproject.com/term/alien/1820539) by Minh Do
-* [raygun] (https://thenounproject.com/term/raygun/11236/) by Dominik Grob
-* [vr] (https://thenounproject.com/term/vr/2334639) by Mahmure Alp
-* [Human cloning ] (https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
+* [Ninja] (https://icooon-mono.com/15989-%e5%bf%8d%e8%80%85%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b38/) by TopeconHeroes
 
 The NationIcon is from (https://hakko-daiodo.com/kamon-c/cate0/kiku/kiku1.html)

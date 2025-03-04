@@ -1,4 +1,3 @@
 # Japanese Empire
 
-An overpowered Japan mainly for cultural victory.
-Have fun!
+This is an overpowered Japan mainly aims for cultural victory. Have fun!

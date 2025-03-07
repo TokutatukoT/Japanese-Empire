@@ -62,6 +62,26 @@
 		]
 	},
 	{
+		"name": "Usa Hachiman-gu",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"faith": 5,
+		"cost": 100,
+		"requiredTech": "Pottery",
+		"uniques": [
+			"Only available <if [Shrine] is constructed in all [non-[Puppeted]] cities>",
+			"Can be purchased with [Culture] [in all cities]",
+			"[+1 Happiness] per [4] population [in all cities]",
+			"[+3 Faith] from [Holy site] tiles [in all cities]",
+			"Free Social Policy",
+			"Free [Great General] appears",
+			"[+20]% Great Person generation [in this city]",
+			"All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion",
+			"Religion naturally spreads to cities [3] tiles away",
+			"Gain [50] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>"
+		]
+	},
+	{
 		"name": "Horyu-ji",
 		"uniqueTo": "Japan",
 		"isNationalWonder": true,
@@ -266,7 +286,6 @@
 		"uniques": [
 			"Only available <if [Military Academy] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
-			"Free [Great General] appears",
 			"Free [Great General] appears",
 			"New [Military] units start with [60] XP [in all cities]",
 			"Great General provides double combat bonus",

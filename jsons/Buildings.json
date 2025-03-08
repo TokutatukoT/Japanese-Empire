@@ -99,6 +99,25 @@
 		]
 	},
 	{
+		"name": "Fushimi Inari-taisha",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"percentStatBonus": {"gold": 20},
+		"greatPersonPoints": {"Great Merchant": 1},
+		"specialistSlots": {"Merchant": 1},
+		"gold": 5,
+		"faith": 5,
+		"cost": 0,
+		"uniques": [
+			"Hidden until [1] social policy branches have been completed",
+			"Can be purchased with [Culture] [in all cities]",
+			"[+1 Food, +1 Gold] from [Land] tiles [in all cities]",
+			"Free [Great Merchant] appears",
+			"[+10]% Great Person generation [in all cities]",
+			"[+25]% Gold from Great Merchant trade missions"
+		]
+	},
+	{
 		"name": "Dazaifu Tenman-gu",
 		"uniqueTo": "Japan",
 		"isNationalWonder": true,

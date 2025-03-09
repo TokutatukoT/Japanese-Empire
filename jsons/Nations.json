@@ -35,10 +35,11 @@
 			"Enemy [Embarked] units must spend [3] extra movement points when inside your territory",
 			"Enemy [Water] units must spend [3] extra movement points when inside your territory",
 		],
-		"cities": ["Tokyo","Kyoto","Osaka","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
-			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
-			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
-			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"],
+		"cities": ["Tokyo","Kyoto","Osaka","Kanagawa","Saitama","Aichi","Chiba","Fukuoka","Hyogo","Okinawa",
+			"Kagawa","Ibaraki","Shizuoka","Nara","Shiga","Saga","Hiroshima","Nagasaki","Miyagi","Mie",
+			"Gunma","Tochigi","Ishikawa","Okayama","Toyama","Ehime","Kumamoto","Yamaguchi","Wakayama","Gifu","Fukui","Yamanashi",
+			"Oita","Niigata","Tokushima","Kagoshima","Tottori","Nagano","Miyazaki","Fukushima", "Aomori", "Yamagata", "Shimane",
+			"Kochi", "Akita", "Iwate", "Hokkaido"],
         "spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
     }
 ]

@@ -25,6 +25,13 @@ BuildingIcons/Jinja
   orig: 256, 256
   offset: 0, 0
   index: -1
+BuildingIcons/Todai-ji
+  rotate: false
+  xy: 1324, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 NationIcons/Japan
   rotate: false
   xy: 532, 4

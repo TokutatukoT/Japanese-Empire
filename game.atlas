@@ -1,6 +1,6 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -11,37 +11,44 @@ BuildingIcons/Daisen Kofun
   orig: 256, 256
   offset: 0, 0
   index: -1
+BuildingIcons/Fish Market
+  rotate: false
+  xy: 4, 268
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
 BuildingIcons/Horyu-ji
   rotate: false
-  xy: 268, 4
+  xy: 524, 524
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Jinja
   rotate: false
-  xy: 796, 4
+  xy: 1052, 524
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Todai-ji
   rotate: false
-  xy: 1324, 4
+  xy: 1580, 524
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/Japan
   rotate: false
-  xy: 532, 4
+  xy: 788, 524
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Ninja
   rotate: false
-  xy: 1060, 4
+  xy: 1316, 524
   size: 256, 256
   orig: 256, 256
   offset: 0, 0

@@ -172,7 +172,7 @@
 		"percentStatBonus": {"food": 25},
 		"greatPersonPoints": {"Great Merchant": 5},
 		"specialistSlots": {"Merchant": 5},
-		"food": 10,
+		"food": 2,
 		"gold": 1,
 		"happiness": 1,
 		"culture": 1,
@@ -354,6 +354,21 @@
 		"cost": 40,
 		"requiredTech": "Pottery",
 		"uniques": ["Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Fish Market",
+		"uniqueTo": "Japan",
+		"cost": 40,
+		"requiredNearbyImprovedResources": ["Fish", "Whales", "Pearls", "Crab"],
+		"food": 2,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Food] from [Fish] tiles [in this city]",
+			"[+1 Food, +1 Gold] from [Whales] tiles [in this city]",
+			"[+2 Gold] from [Pearls] tiles [in this city]",
+			"[+1 Food, +1 Gold] from [Crab] tiles [in this city]"
+		],
+		"requiredTech": "Sailing"
 	},
 	{
 		"name": "Tatara",

@@ -1,31 +1,31 @@
 [
   {
     "name": "The Emperor of Japan",
-    "production": 5,
-    "food": 6,
-    "gold": 4,
-    "science": 6,
+    "production": 7,
+    "food": 5,
+    "gold": 6,
+    "science": 5,
     "culture": 8,
     "happiness": 5,
     "faith": 6,
-    "military": 4,
-    "aggressive": 4,
-    "declareWar": 4,
+    "military": 5,
+    "aggressive": 2,
+    "declareWar": 1,
     "commerce": 7,
-    "diplomacy": 7,
-    "loyal": 7,
-    "expansion": 5,
+    "diplomacy": 9,
+    "loyal": 10,
+    "expansion": 4,
     "priorities": {
       "Tradition": 9,
-      "Liberty": 6,
+      "Liberty": 5,
       "Honor": 6,
-      "Commerce": 7,
+      "Commerce": 8,
       "Patronage": 7,
       "Piety": 5,
       "Rationalism": 7,
       "Freedom": 9,
       "Autocracy": 5,
-      "Order": 5
+      "Order": 4
     }
   }
 ]

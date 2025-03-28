@@ -27,5 +27,8 @@
       "Autocracy": 5,
       "Order": 4
     }
+    "uniques": [
+       "Will not build [Nuclear Weapon]"
+    ]
   }
 ]

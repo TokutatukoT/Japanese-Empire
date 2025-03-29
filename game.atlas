@@ -1,6 +1,6 @@
 
 game.png
-size: 1024, 1024
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -48,7 +48,7 @@ BuildingIcons/Meiji Jingu
   index: -1
 BuildingIcons/Todai-ji
   rotate: false
-  xy: 532, 4
+  xy: 796, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -63,6 +63,13 @@ NationIcons/Japan
 UnitIcons/Ninja
   rotate: false
   xy: 532, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Yamato-Class Battleship
+  rotate: false
+  xy: 532, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0

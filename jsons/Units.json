@@ -33,6 +33,32 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Yamato-Class Battleship",
+		"unitType": "Ranged Water",
+		"replaces": "Battleship",
+		"uniqueTo": "Japan",
+		"movement": 5,
+		"strength": 90,
+		"rangedStrength": 90,
+		"range": 4,
+		"interceptRange": 2,
+		"cost": 575,
+		"requiredResource": "Oil",
+		"requiredTech": "Electronics",
+		"uniques": [
+			"[2] additional attacks per turn",
+			"Can move after attacking",
+			"[80]% chance to intercept air attacks",
+			"[+100]% Strength <vs [Air] units>",
+			"[+100]% Strength <vs [Helicopter] units>",
+			"[+100]% Strength <when defending>",
+			"Never appears as a Barbarian unit",
+			"Consumes [3] [Iron]"
+		],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
+	},
+	{
 		"name": "Ninja",
 		"unitType": "Scout",
 		"replaces": "Scout",

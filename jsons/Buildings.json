@@ -177,6 +177,7 @@
 		"happiness": 1,
 		"culture": 1,
 		"cost": 450,
+		"requiredTech": "Compass",
 		"uniques": [
 			"Only available <if [Harbor] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
@@ -190,6 +191,7 @@
 	{
 		"name": "Yahata Steel Works",
 		"uniqueTo": "Japan",
+		"replaces": "Ironworks",
 		"isNationalWonder": true,
 		"percentStatBonus": {"production": 25, "gold": 10},
 		"greatPersonPoints": {"Great Engineer": 5},
@@ -197,10 +199,10 @@
 		"production": 10,
 		"culture": 1,
 		"cost": 450,
-		"requiredBuilding": "Ironworks",
+		"requiredTech": "Machinery"
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
-			"Provides [10] [Iron]",
+			"Provides [5] [Iron]",
 			"Double quantity of [Iron] produced",
 			"Free [Great Engineer] appears",
 			"[+1 Production] from every specialist [in all cities]",
@@ -213,6 +215,7 @@
 	{
 		"name": "Imperial Universities",
 		"uniqueTo": "Japan",
+		"replaces": "Oxford University",
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 50, "culture": 5},
 		"greatPersonPoints": {"Great Scientist": 5},
@@ -220,7 +223,7 @@
 		"science": 10,
 		"culture": 1,
 		"cost": 500,
-		"requiredBuilding": "Oxford University",
+		"requiredTech": "Education",
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great Scientist] appears",
@@ -261,6 +264,7 @@
 		"cityStrength": 50,
 		"cityHealth": 75,
 		"cost": 750,
+		"requiredTech": "Metallurgy",
 		"uniques": [
 			"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
@@ -284,6 +288,7 @@
 		"cityStrength": 50,
 		"cityHealth": 75,
 		"cost": 750,
+		"requiredTech": "Metallurgy",
 		"uniques": [
 			"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
 			"Must be next to [Coast]",
@@ -307,6 +312,7 @@
 		"uniqueTo": "Japan",
 		"isNationalWonder": true,
 		"cost": 900,
+		"requiredTech": "Military Science",
 		"uniques": [
 			"Only available <if [Military Academy] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
@@ -324,11 +330,12 @@
 		"name": "Tokyo Stock Exchange",
 		"uniqueTo": "Japan",
 		"isNationalWonder": true,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 50},
 		"greatPersonPoints": {"Great Merchant": 5},
 		"specialistSlots": {"Merchant": 5},
 		"gold": 1,
 		"cost": 1000,
+		"requiredTech": "Electricity",
 		"uniques": [
 			"Only available <if [Stock Exchange] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
@@ -341,7 +348,7 @@
 			"[+25]% [Gold] [in all cities] <during a Golden Age>",
 			"[+50]% of excess happiness converted to [Gold]",
 			"[-50]% Unhappiness from [Specialists] [in all cities]",
-			"[1] Happiness from each type of luxury resource",
+			"Production to [Gold] conversion in cities changed by [+100]%",
 			"[+25]% Gold from Great Merchant trade missions"
 		]
 	},

@@ -29,6 +29,7 @@
 		"requiredTech": "Pottery",
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Monument] [in all cities]",
 			"[-10]% maintenance costs",
 			"Can build [all] improvements at a [+25]% rate",
 			"[+10]% Great Person generation [in this city]",
@@ -49,6 +50,7 @@
 		"uniques": [
 			"Only available <if [Shrine] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Shrine] [in all cities]",
 			"[-10]% maintenance costs",
 			"[+1 Happiness] per [4] population [in all cities]",
 			"[+3 Faith] from [Holy site] tiles [in all cities]",
@@ -68,6 +70,7 @@
 		"requiredTech": "Pottery",
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Wall] [in all cities]",
 			"Free [Great General] appears",
 			"New [Military] units start with [30] XP [in all cities]",
 			"Great General provides double combat bonus",
@@ -103,6 +106,7 @@
 		"uniques": [
 			"Unavailable <when number of [Completed Policy branches] is less than [1]>",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Temple] [in all cities]",
 			"[+10]% Great Person generation [in this city]",
 			"Free Social Policy",
 			"[+3 Faith] from [Holy site] tiles [in all cities]"
@@ -121,6 +125,7 @@
 		"uniques": [
 			"Unavailable <when number of [Completed Policy branches] is less than [1]>",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Market] [in all cities]",
 			"[+1 Food, +1 Gold] from [Land] tiles [in all cities]",
 			"Free [Great Merchant] appears",
 			"[+10]% Great Person generation [in all cities]",
@@ -139,6 +144,7 @@
 		"uniques": [
 			"Unavailable <when number of [Completed Policy branches] is less than [1]>",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Library] [in all cities]",
 			"Free [Great Scientist] appears",
 			"Free Technology",
 			"[+10]% Great Person generation [in this city]",
@@ -158,6 +164,7 @@
 		"uniques": [
 			"Unavailable <when number of [Completed Policy branches] is less than [2]>",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Armory] [in all cities]",
 			"Empire enters golden age",
 			"Free [Great Artist] appears",
 			"[+10]% Great Person generation [in all cities]",
@@ -181,6 +188,7 @@
 		"uniques": [
 			"Only available <if [Harbor] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Harbor] [in all cities]",
 			"Must be next to [Coast]",
 			"[+2 Food, +1 Culture] from [Coast] tiles [in all cities]",
 			"[+2 Food, +1 Gold] from [Ocean] tiles [in all cities]",
@@ -202,6 +210,7 @@
 		"requiredTech": "Machinery"
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Workshop] [in all cities]",
 			"Provides [5] [Iron]",
 			"Double quantity of [Iron] produced",
 			"Free [Great Engineer] appears",
@@ -218,7 +227,7 @@
 		"replaces": "Oxford University",
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 50, "culture": 5},
-		"greatPersonPoints": {"Great Scientist": 5},
+		"greatPersonPoints": {"Great Scientist": 3},
 		"specialistSlots": {"Scientist": 3},
 		"science": 10,
 		"culture": 1,
@@ -226,6 +235,7 @@
 		"requiredTech": "Education",
 		"uniques": [
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [University] [in all cities]",
 			"Free [Great Scientist] appears",
 			"Free Technology",
 			"[+2 Science] from every specialist [in all cities]",
@@ -268,6 +278,7 @@
 		"cost": 500,
 		"uniques": [
 			"Only available <if [Bank] is constructed in all [non-[Puppeted]] cities>",
+			"Gain a free [Bank] [in all cities]",
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great Merchant] appears",
 			"[+1 Gold] from every specialist [in all cities]",
@@ -291,6 +302,7 @@
 		"uniques": [
 			"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Arsenal] [in all cities]",
 			"Provides [2] [Iron]",
 			"Provides [2] [Coal]",
 			"Provides [2] [Oil]",
@@ -316,6 +328,7 @@
 			"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
 			"Must be next to [Coast]",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Seaport] [in all cities]",
 			"Provides [2] [Iron]",
 			"Provides [2] [Coal]",
 			"Provides [2] [Oil]",
@@ -338,6 +351,7 @@
 		"requiredTech": "Military Science",
 		"uniques": [
 			"Only available <if [Military Academy] is constructed in all [non-[Puppeted]] cities>",
+			"Gain a free [Military Academy] [in all cities]",
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great General] appears",
 			"[Great General] is earned [+25]% faster",
@@ -347,6 +361,27 @@
 			"[+50]% [Happiness] <when at war>",
 			"[+100]% Golden Age length <when at war>",
 			"[+25]% Strength <for [All] units> <when attacking>"
+		]
+	},
+	{
+		"name": "Institute of Physical and Chemical Research",
+		"uniqueTo": "Japan",
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50, "culture": 5},
+		"greatPersonPoints": {"Great Scientist": 5},
+		"specialistSlots": {"Scientist": 3},
+		"science": 10,
+		"culture": 1,
+		"cost": 1000,
+		"requiredTech": "Plastics",
+		"uniques": [
+			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Research Lab] [in all cities]",
+			"Free [Great Scientist] appears",
+			"Free Technology",
+			"[+2 Science] from every specialist [in all cities]",
+			"Science gained from research agreements [+150]%",
+			"[+3 Science] from [Academy] tiles [in all cities]"
 		]
 	},
 	{
@@ -362,6 +397,7 @@
 		"uniques": [
 			"Only available <if [Stock Exchange] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
+			"Gain a free [Stock Exchange] [in all cities]",
 			"Free [Great Merchant] appears",
 			"[+1 Gold] from every specialist [in all cities]",
 			"[+3 Gold] from [Customs house] tiles [in all cities]",

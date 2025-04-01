@@ -84,7 +84,7 @@
 		"faith": 2,
 		"cost": 100,
 		"uniques": [
-			"Hidden until [1] social policy branches have been completed",
+			"Unavailable <when number of [Completed Policy branches] is less than [1]>",
 			"Can be purchased with [Culture] [in all cities]",
 			"Gain a free [Temple] [in this city]",
 			"Free [Great Prophet] appears",
@@ -101,7 +101,7 @@
 		"faith": 3,
 		"cost": 120,
 		"uniques": [
-			"Hidden until [1] social policy branches have been completed",
+			"Unavailable <when number of [Completed Policy branches] is less than [1]>",
 			"Can be purchased with [Culture] [in all cities]",
 			"[+10]% Great Person generation [in this city]",
 			"Free Social Policy",
@@ -119,7 +119,7 @@
 		"faith": 5,
 		"cost": 150,
 		"uniques": [
-			"Hidden until [1] social policy branches have been completed",
+			"Unavailable <when number of [Completed Policy branches] is less than [1]>",
 			"Can be purchased with [Culture] [in all cities]",
 			"[+1 Food, +1 Gold] from [Land] tiles [in all cities]",
 			"Free [Great Merchant] appears",
@@ -137,7 +137,7 @@
 		"science": 5,
 		"cost": 200,
 		"uniques": [
-			"Hidden until [1] social policy branches have been completed",
+			"Unavailable <when number of [Completed Policy branches] is less than [1]>",
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great Scientist] appears",
 			"Free Technology",
@@ -156,7 +156,7 @@
 		"faith": 5,
 		"cost": 300,
 		"uniques": [
-			"Hidden until [2] social policy branches have been completed",
+			"Unavailable <when number of [Completed Policy branches] is less than [2]>",
 			"Can be purchased with [Culture] [in all cities]",
 			"Empire enters golden age",
 			"Free [Great Artist] appears",
@@ -244,7 +244,7 @@
 		"happiness": 5,
 		"cost": 600,
 		"uniques": [
-			"Hidden until [3] social policy branches have been completed",
+			"Unavailable <when number of [Completed Policy branches] is less than [3]>",
 			"Can be purchased with [Culture] [in all cities]",
 			"All newly-trained [All] units [in all cities] receive the [Yamato-damashii] promotion",
 			"Free Social Policy",
@@ -439,7 +439,7 @@
 		"specialistSlots": {"Artist": 1, "Engineer": 1, "Scientist": 1, "Merchant": 1},
 		"cost": 1200,
 		"uniques": [
-			"Hidden until [3] social policy branches have been completed",
+			"Unavailable <when number of [Completed Policy branches] is less than [3]>",
 			"Can only be built <in [in capital] cities>",
 			"Can be purchased for [500] [Culture] [in capital]",
 			"Cannot be hurried",

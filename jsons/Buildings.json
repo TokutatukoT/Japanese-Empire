@@ -48,7 +48,6 @@
 		"cost": 100,
 		"requiredTech": "Pottery",
 		"uniques": [
-			"Only available <if [Shrine] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
 			"Gain a free [Shrine] [in all cities]",
 			"[-10]% maintenance costs",
@@ -186,7 +185,6 @@
 		"cost": 450,
 		"requiredTech": "Compass",
 		"uniques": [
-			"Only available <if [Harbor] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
 			"Gain a free [Harbor] [in all cities]",
 			"Must be next to [Coast]",
@@ -277,7 +275,6 @@
 		"isNationalWonder": true,
 		"cost": 500,
 		"uniques": [
-			"Only available <if [Bank] is constructed in all [non-[Puppeted]] cities>",
 			"Gain a free [Bank] [in all cities]",
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great Merchant] appears",
@@ -300,7 +297,6 @@
 		"cost": 750,
 		"requiredTech": "Metallurgy",
 		"uniques": [
-			"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
 			"Gain a free [Arsenal] [in all cities]",
 			"Provides [2] [Iron]",
@@ -325,7 +321,6 @@
 		"cost": 750,
 		"requiredTech": "Metallurgy",
 		"uniques": [
-			"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
 			"Must be next to [Coast]",
 			"Can be purchased with [Culture] [in all cities]",
 			"Gain a free [Seaport] [in all cities]",
@@ -350,7 +345,6 @@
 		"cost": 900,
 		"requiredTech": "Military Science",
 		"uniques": [
-			"Only available <if [Military Academy] is constructed in all [non-[Puppeted]] cities>",
 			"Gain a free [Military Academy] [in all cities]",
 			"Can be purchased with [Culture] [in all cities]",
 			"Free [Great General] appears",
@@ -395,7 +389,6 @@
 		"cost": 1000,
 		"requiredTech": "Electricity",
 		"uniques": [
-			"Only available <if [Stock Exchange] is constructed in all [non-[Puppeted]] cities>",
 			"Can be purchased with [Culture] [in all cities]",
 			"Gain a free [Stock Exchange] [in all cities]",
 			"Free [Great Merchant] appears",

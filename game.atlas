@@ -4,72 +4,86 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Daisen Kofun
+BuildingIcons/Bank of Japan
   rotate: false
   xy: 4, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-BuildingIcons/Fish Market
+BuildingIcons/Daisen Kofun
   rotate: false
   xy: 4, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-BuildingIcons/Horyu-ji
+BuildingIcons/Fish Market
   rotate: false
   xy: 268, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-BuildingIcons/Imperial Palace
+BuildingIcons/Horyu-ji
   rotate: false
   xy: 4, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-BuildingIcons/Jinja
-  rotate: false
-  xy: 532, 532
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-BuildingIcons/Meiji Jingu
-  rotate: false
-  xy: 268, 4
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-BuildingIcons/Todai-ji
-  rotate: false
-  xy: 796, 532
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-NationIcons/Japan
+BuildingIcons/Imperial Palace
   rotate: false
   xy: 268, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Ninja
+BuildingIcons/Jinja
+  rotate: false
+  xy: 268, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/Meiji Jingu
   rotate: false
   xy: 532, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Yamato-Class Battleship
+BuildingIcons/Todai-ji
   rotate: false
   xy: 532, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tokyo Stock Exchange
+  rotate: false
+  xy: 796, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+NationIcons/Japan
+  rotate: false
+  xy: 532, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Ninja
+  rotate: false
+  xy: 796, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Yamato-Class Battleship
+  rotate: false
+  xy: 1060, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0

@@ -22,19 +22,17 @@
 		"favoredReligion": "Shinto",
 		"uniqueName": "Industrious Imperial Citizens",
 		"uniques": [
-			"No damage penalty for wounded units <for [non-[Air]] units>",
-			"[+1 Gold, +1 Culture, +1 Happiness] from [Water resource] tiles [in all cities]",
+			"No damage penalty for wounded units",
+			"[+1 Gold, +1 Culture, +1 Happiness] from [{non-[Oil]} {Water resource}] tiles [in all cities]",
 			"[+1 Culture] from [Water] tiles [in all cities]",
 			"[+50]% Production when constructing [All] buildings [in all cities]",
 			"[+50]% Production when constructing [All] units [in all cities]",
-			"[+25]% Production when constructing [All] wonders [in all cities]",
 			"[-50]% construction time for [All] improvements",
-			"[2] Movement",
 			"Enables embarkation for land units <starting from the [Ancient era]>",
-			"[2] Movement point cost to embark", "[2] Movement point cost to disembark",
 			"Enemy [Embarked] units must spend [3] extra movement points when inside your territory <before discovering [Steam Power]>",
 			"Enemy [Water] units must spend [3] extra movement points when inside your territory <before discovering [Steam Power]>",
-			"Cannot build [Chariot Archer] units", "Cannot build [Catapult] units", "Cannot build [Trebuchet] units"
+			"Cannot build [Chariot Archer] units", "Cannot build [Catapult] units", "Cannot build [Trebuchet] units",
+			"[+50]% Strength <vs [City]><for [Melee] units><before discovering [Chemistry]>"
 		],
 		"cities": ["Tokyo","Kyoto","Osaka","Kanagawa","Saitama","Aichi","Chiba","Fukuoka","Hyogo","Okinawa",
 			"Kagawa","Ibaraki","Shizuoka","Nara","Shiga","Saga","Hiroshima","Nagasaki","Miyagi","Mie",

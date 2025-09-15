@@ -1,34 +1,35 @@
 [
   {
     "name": "The Emperor of Japan",
-    "production": 7,
-    "food": 5,
+    "preferredVictoryType": "Cultural",
+    "production": 6,
+    "food": 4,
     "gold": 6,
     "science": 5,
     "culture": 8,
     "happiness": 5,
-    "faith": 6,
-    "military": 5,
+    "faith": 5,
+    "military": 4,
     "aggressive": 2,
-    "declareWar": 1,
+    "declareWar": 0,
     "commerce": 7,
-    "diplomacy": 9,
+    "diplomacy": 10,
     "loyal": 10,
-    "expansion": 4,
+    "expansion": 3,
     "priorities": {
       "Tradition": 9,
-      "Liberty": 5,
-      "Honor": 6,
-      "Commerce": 8,
-      "Patronage": 7,
-      "Piety": 5,
+      "Liberty": 2,
+      "Honor": 5,
+      "Commerce": 6,
+      "Patronage": 6,
+      "Piety": 4,
       "Rationalism": 7,
       "Freedom": 9,
       "Autocracy": 5,
-      "Order": 4
+      "Order": 1
     }
     "uniques": [
-       "Will not build [Nuclear Weapon]"
+       //"Will not build [Nuclear Weapon]"
     ]
   }
 ]
